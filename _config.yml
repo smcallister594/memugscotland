@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Modern Endpoint Management User Group Scotland
+tagline:          'MEMUG Scotland'
+description:      'MEMUG Scotland is a Glasgow based usergroup which meets monthly to talk about topics related to Modern Endpoint Management'
+url:              smcallister594.github.io
+baseurl:          /memugscotland
+
+author:
+  name:           'Scott McAllister'
+  url:            https://twitter.com/scottpatchmypc
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
