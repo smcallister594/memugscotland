@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First MEMUG Scotland Meet Up
-subtitle: Find more informationa bout the first MEMUG Scotland meetup here!
+subtitle: More informationa bout the first MEMUG Scotland meetup here!
 gh-repo: smcallister594/memugscotland
 # gh-badge: [star, fork, follow]
 tags: [memug, modern endpoint management, config mgr, intune, powershell]
