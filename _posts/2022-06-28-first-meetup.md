@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First MEMUG Scotland Meet Up
+title: 'MEMUG Scotland #1'
 subtitle: More informationa bout the first MEMUG Scotland meetup here!
 gh-repo: smcallister594/memugscotland
 # gh-badge: [star, fork, follow]
