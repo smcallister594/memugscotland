@@ -10,8 +10,6 @@ comments: false
 
 There will eventually be some more information here about the first MEMUG Scotland user group! [Eventbrite page](https://www.eventbrite.com/)
 
-**Here is some bold text**
-
 ## Session 1
 
 **Speaker Name & information**
