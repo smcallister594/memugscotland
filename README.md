@@ -1,4 +1,4 @@
-![Logo](https://github.com/smcallister594/memugscotland/blob/main/img/glasgow-skylinepng.png?raw=true)
+![Logo](https://github.com/smcallister594/memugscotland/blob/main/img/glasgow-skylinepng-alt.png?raw=true)
 
 
 # Modern Endpoint Management - Scotland
