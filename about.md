@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About MEMUG Scotland
-subtitle: A bit about MEMUG Scotland
+permalink: /about/
 ---
 
 Modern Endpoint Management User Group Scotland is a monthly meetup of likeminded IT Profressionals based in Scotland. 
