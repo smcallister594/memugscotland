@@ -7,7 +7,6 @@ permalink: /sponsors/
 ## Sponsors
  
 [![PatchMyPCLogo](/assets/img/PatchMyPC-Logo.svg)](https://patchmypc.com)
-**Speaker Name & information**
 
 Let us handle the tedious work of packaging, testing, deploying, and troubleshooting application updates in your ConfigMgr or Intune environment. Easily extend Microsoft Endpoint Manager to deploy and update over third-party applications within your enterprise.
 
