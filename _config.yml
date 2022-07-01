@@ -14,7 +14,7 @@ author: MEMUG Scotland
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About MEMUG: "About MEMUG Scotland"
+  About MEMUG: /About.html"
   Events: "needs a link"
   Discord: "Needs a link"
   Sponsors: "Needs a page"
