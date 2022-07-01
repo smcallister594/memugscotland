@@ -15,10 +15,10 @@ author: MEMUG Scotland
 
 navbar-links:
   About MEMUG: /about/
-  Events: "needs a link"
-  Discord: "Needs a link"
-  Sponsors: "Needs a page"
-  Speaking: "Needs a page"
+  Events: "https://www.eventbrite.com/"
+  Discord: "https://discord.gg/6yrcrb9V"
+  Sponsors: "/sponsors/"
+  #Speaking: "Needs a page"
   Resources: "https://github.com/smcallister594/memugscotland/tree/gh-pages/MEMUGScotland-Resources"
 
 # --- Logo --- #
