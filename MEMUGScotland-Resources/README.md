@@ -1,11 +1,10 @@
-![Logo](https://github.com/smcallister594/memugscotland/blob/gh-pages/assets/img/glasgow-edinburgh-skylinepng-alt.png?raw=true)
-
+![Logo](https://github.com/smcallister594/memugscotland/blob/main/img/glasgow-edinburgh-skylinepng-alt.png?raw=true)
 
 
 # Modern Enterprise Management - Scotland
 ## About MEMUG Scotland
 
-MEMUG Scotland is a Glasgow based usergroup which meets every 2 months to talk about topics about Modern Enterprise Management
+MEMUG Scotland is a Glasgow based usergroup which meets monthly to talk about topics about Modern Enterprise Management
 
 Topics may include
 

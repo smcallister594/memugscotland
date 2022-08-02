@@ -1,0 +1,17 @@
+---
+layout: page
+title: About MEMUG Scotland
+permalink: /about/
+---
+
+#About MEMUG Scotland
+
+Modern Enterprise Management User Group Scotland is a monthly meetup of likeminded IT Profressionals based in Scotland. 
+
+These meetups will be free to attend and there will be refreshments available in the form of Pizza and soft drinks (and maybe beers?)
+
+The list of topics we will cover off, venue and dates are TBD but will be available on this page once they are available!
+
+Are you interested in speaking at one of our meetups? Then please do not hesitate to reach out via our Twitter or over Email, both of which are listed at the bottom of thise page.
+
+***More info soon***
