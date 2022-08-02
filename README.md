@@ -2,10 +2,10 @@
 
 
 
-# Modern Endpoint Management - Scotland
+# Modern Enterprise Management - Scotland
 ## About MEMUG Scotland
 
-MEMUG Scotland is a Glasgow based usergroup which meets monthly to talk about topics about Modern Endpoint Management
+MEMUG Scotland is a Glasgow based usergroup which meets every 2 months to talk about topics about Modern Enterprise Management
 
 Topics may include
 
