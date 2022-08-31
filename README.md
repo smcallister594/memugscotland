@@ -1,4 +1,4 @@
-![Logo](https://github.com/smcallister594/memugscotland/blob/main/assets/img/MEMUG%20Scotland%20Logo%20-%20Sticker.png)
+![Logo](https://github.com/smcallister594/memugscotland/blob/main/assets/img/MEMUG%20Scotland%20Logo%20-%20Sticker.png | width=250)
 
 
 
