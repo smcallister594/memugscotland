@@ -1,6 +1,4 @@
-![Logo](https://github.com/smcallister594/memugscotland/blob/main/assets/img/MEMUG%20Scotland%20Logo%20-%20Sticker.png)
-
-![test image size]<img src="https://github.com/smcallister594/memugscotland/blob/main/assets/img/MEMUG%20Scotland%20Logo%20-%20Sticker.png" width="400" height="790">
+![test image size]<img src="https://github.com/smcallister594/memugscotland/blob/main/assets/img/MEMUG%20Scotland%20Logo%20-%20Sticker.png" width="250">
 
 
 # Modern Enterprise Management - Scotland
