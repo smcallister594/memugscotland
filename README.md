@@ -1,6 +1,6 @@
-![Logo](https://github.com/smcallister594/memugscotland/blob/gh-pages/assets/img/glasgow-edinburgh-skylinepng-alt.png?raw=true)
-
-
+<p align="center">
+<img src="https://github.com/smcallister594/memugscotland/blob/main/assets/img/MEMUG%20Scotland%20Logo%20-%20Sticker.png" width="250">
+</p>
 
 # Modern Enterprise Management - Scotland
 ## About MEMUG Scotland
