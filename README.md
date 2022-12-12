@@ -9,7 +9,7 @@ MEMUG Scotland is a Glasgow based usergroup which meets every 2 months to talk a
 
 Topics may include
 
-* Microsofts Endpoint Management suite
+* Microsofts ConfigMgr & Intune
 * EM+S
 * O365
 * PowerShell
